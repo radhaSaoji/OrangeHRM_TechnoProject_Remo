@@ -5,7 +5,6 @@
 	<groupId>com.techno.ornghrm</groupId>
 	<artifactId>FrameworkOrangeHRM_TechNoproject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
 	<build>
 		<plugins>
 			<plugin>
